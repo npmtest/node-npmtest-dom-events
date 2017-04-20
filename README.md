@@ -1,4 +1,7 @@
-# test coverage for  [dom-events (v0.1.1)](https://github.com/shtylman/dom-events#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dom-events.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dom-events) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dom-events.svg)](https://travis-ci.org/npmtest/node-npmtest-dom-events)
+# npmtest-dom-events
+
+#### basic test coverage for  [dom-events (v0.1.1)](https://github.com/shtylman/dom-events#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dom-events.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dom-events) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dom-events.svg)](https://travis-ci.org/npmtest/node-npmtest-dom-events)
+
 #### dom event binding and triggering
 
 [![NPM](https://nodei.co/npm/dom-events.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dom-events)
